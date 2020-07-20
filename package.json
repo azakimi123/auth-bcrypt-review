@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "",
   "main": "server/index.js",
+  "proxy": "http://localhost:5050",
   "dependencies": {
     "bcryptjs": "^2.4.3",
     "dotenv": "^8.2.0",
